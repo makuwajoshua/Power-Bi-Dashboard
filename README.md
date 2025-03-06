@@ -18,4 +18,6 @@ This Power BI dashboard provides insights into customer demographics, including 
 ### **🚀 Future Enhancements**  
 🔹 Add predictive modeling for **customer income growth** using machine learning.  
 🔹 Incorporate **dynamic forecasting** for debt and retirement planning.  
-🔹 Enhance **user interactivity** with more slicers and drill-through reports.  
+🔹 Enhance **user interactivity** with more slicers and drill-through reports. 
+# Dashboard-Financial Metrics
+https://github.com/makuwajoshua/Power-Bi-Dashboard/blob/7c9d435f48d9d680c7a9a33c2bdabb8ecdcde90a/Screenshot%20(3501).png
