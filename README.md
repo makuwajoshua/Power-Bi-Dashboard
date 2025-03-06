@@ -19,3 +19,4 @@ This Power BI dashboard provides insights into customer demographics, including 
 🔹 Add predictive modeling for **customer income growth** using machine learning.  
 🔹 Incorporate **dynamic forecasting** for debt and retirement planning.  
 🔹 Enhance **user interactivity** with more slicers and drill-through reports.  
+pic.png
