@@ -21,3 +21,4 @@ This Power BI dashboard provides insights into customer demographics, including 
 🔹 Enhance **user interactivity** with more slicers and drill-through reports. 
 # Dashboard-Financial Metrics
 https://github.com/makuwajoshua/Power-Bi-Dashboard/blob/7c9d435f48d9d680c7a9a33c2bdabb8ecdcde90a/Screenshot%20(3501).png
+![image](https://github.com/user-attachments/assets/f26aa9e2-73a2-400f-b92a-6f7e48b99566)
