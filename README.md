@@ -4,7 +4,7 @@
 This Power BI dashboard provides insights into customer demographics, including age distribution, income levels, credit card ownership, geographic distribution, and gender segmentation. It enables interactive filtering and visualization for effective data-driven decision-making.  
 
 ### **📌 Key Features**  
-✅ **Age & Retirement Insights**: Displays the average customer age and their expected retirement age.  
+✅ **Age & Retirement Insights**: Displays the average customer age and expected retirement age.  
 ✅ **Income Distribution**: Visualizes `Yearly_Income` across different age groups.  
 ✅ **Credit Profile**: Tracks credit score, total debt, and number of credit cards.  
 ✅ **Geographic Distribution**: Uses a map to show customer locations based on latitude and longitude. '  
@@ -19,4 +19,3 @@ This Power BI dashboard provides insights into customer demographics, including 
 🔹 Add predictive modeling for **customer income growth** using machine learning.  
 🔹 Incorporate **dynamic forecasting** for debt and retirement planning.  
 🔹 Enhance **user interactivity** with more slicers and drill-through reports.  
-pic.png
